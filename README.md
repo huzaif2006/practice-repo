@@ -1,2 +1,2 @@
 # practice-repo
-this is just for practice pupose
+Hi I'm Huzaif a software developer currentlu learning git and github
